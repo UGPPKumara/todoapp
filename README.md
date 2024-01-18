@@ -2,10 +2,12 @@
 
 This is a mini Todo App. Build using ReactJS and css.
 
-## ScreenShot
+# Preview
+
+[Click Here](https://ugppkumara.github.io/todoapp/). to go to the Todo web application.
+
+# ScreenShot
 
 <img src="/src/assest/image.png" alt="Todo App" />
 
-## Preview
 
-[Click Here](https://ugppkumara.github.io/todoapp/).
