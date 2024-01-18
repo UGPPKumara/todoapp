@@ -4,7 +4,7 @@ This is a mini Todo App. Build using ReactJS and css.
 
 ## ScreenShot
 
-<img src="/todoapp/src/assest/image.png" alt="Todo App" />
+<img src="/src/assest/image.png" alt="Todo App" />
 
 ## Preview
 
